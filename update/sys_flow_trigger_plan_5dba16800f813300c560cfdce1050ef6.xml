@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_trigger_plan">
+    <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
+        <binding_strategy>com.snc.process_flow.engine.binding.RunAlways</binding_strategy>
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"5dba16800f813300c560cfdce1050ef6","name":"plan"}}</plan>
+        <plan_id>cf681ecc0f413300c560cfdce1050e4b</plan_id>
+        <snapshot>8aca56800f813300c560cfdce1050ec2</snapshot>
+        <sys_class_name>sys_flow_trigger_plan</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-21 19:06:02</sys_created_on>
+        <sys_id>5dba16800f813300c560cfdce1050ef6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>59ba16800f813300c560cfdce1050ef2</sys_name>
+        <sys_package display_value="Mobile Audit Scanner" source="x_177640_mobile">2dd00a880f013300c560cfdce1050ee5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Audit Scanner">2dd00a880f013300c560cfdce1050ee5</sys_scope>
+        <sys_update_name>sys_flow_trigger_plan_5dba16800f813300c560cfdce1050ef6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-21 19:06:02</sys_updated_on>
+        <trigger display_value="">59ba16800f813300c560cfdce1050ef2</trigger>
+    </sys_flow_trigger_plan>
+</record_update>

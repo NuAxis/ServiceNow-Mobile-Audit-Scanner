@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>Verified Assets Map</name>
+        <query_condition table="x_177640_mobile_scan_log">verified=true^submitted=true<item endquery="false" field="verified" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="submitted" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-21 18:19:24</sys_created_on>
+        <sys_id>9a0016880f413300c560cfdce1050e92</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Verified Assets Map</sys_name>
+        <sys_package display_value="Mobile Audit Scanner" source="x_177640_mobile">2dd00a880f013300c560cfdce1050ee5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Audit Scanner">2dd00a880f013300c560cfdce1050ee5</sys_scope>
+        <sys_update_name>sys_sg_data_item_9a0016880f413300c560cfdce1050e92</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-21 18:19:24</sys_updated_on>
+        <table>x_177640_mobile_scan_log</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=9a0016880f413300c560cfdce1050e92"/>
+</record_update>

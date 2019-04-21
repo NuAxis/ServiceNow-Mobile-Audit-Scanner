@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Create Record">2de05916c31332002841b63b12d3aee1</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot>2de05916c31332002841b63b12d3aee1</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Populate Audit Logs (Yearly)">cf681ecc0f413300c560cfdce1050e4b</flow>
+        <order>2.1</order>
+        <parent_ui_id>72ac0dae-49ad-4c94-852d-1dbad68f8860</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-21 18:58:59</sys_created_on>
+        <sys_id>d61912400f813300c560cfdce1050eb2</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mobile Audit Scanner" source="x_177640_mobile">2dd00a880f013300c560cfdce1050ee5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Audit Scanner">2dd00a880f013300c560cfdce1050ee5</sys_scope>
+        <sys_update_name>sys_hub_action_instance_d61912400f813300c560cfdce1050eb2</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-04-21 19:06:22</sys_updated_on>
+        <ui_id>eeb164d0-3f5c-48b2-9c1c-035f8507a2e3</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=d61912400f813300c560cfdce1050eb2"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>d61912400f813300c560cfdce1050eb2</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-21 18:58:59</sys_created_on>
+        <sys_id>5a1912400f813300c560cfdce1050eb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-21 18:58:59</sys_updated_on>
+        <value>x_177640_mobile_scan_log</value>
+        <variable display_value="">0352fc8cc3c632002841b63b12d3ae12</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>d61912400f813300c560cfdce1050eb2</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-21 19:06:01</sys_created_on>
+        <sys_id>89ba16800f813300c560cfdce1050ea7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-21 19:06:01</sys_updated_on>
+        <value>x_177640_mobile_scan_log</value>
+        <variable display_value="">61e05916c31332002841b63b12d3aee4</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=d61912400f813300c560cfdce1050eb2"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>d61912400f813300c560cfdce1050eb2</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-21 18:58:59</sys_created_on>
+        <sys_id>161912400f813300c560cfdce1050eb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-21 18:58:59</sys_updated_on>
+        <table>var__m_sys_hub_action_input_02f0b88cc3c632002841b63b12d3aeff</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>d61912400f813300c560cfdce1050eb2</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-21 19:06:01</sys_created_on>
+        <sys_id>45ba16800f813300c560cfdce1050ea7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-21 19:06:01</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>d61912400f813300c560cfdce1050eb2</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-21 19:06:01</sys_created_on>
+        <sys_id>09ba16800f813300c560cfdce1050ea7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-21 19:06:01</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value>asset={{72ac0dae-49ad-4c94-852d-1dbad68f8860.item}}^user={{72ac0dae-49ad-4c94-852d-1dbad68f8860.item.assigned_to}}^location={{72ac0dae-49ad-4c94-852d-1dbad68f8860.item.assigned_to.location}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>d61912400f813300c560cfdce1050eb2</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-21 18:58:59</sys_created_on>
+        <sys_id>d61912400f813300c560cfdce1050eb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-21 18:58:59</sys_updated_on>
+        <table>var__m_sys_hub_action_input_02f0b88cc3c632002841b63b12d3aeff</table>
+        <value>asset={{72ac0dae-49ad-4c94-852d-1dbad68f8860.item}}^user={{72ac0dae-49ad-4c94-852d-1dbad68f8860.item.assigned_to}}^location={{72ac0dae-49ad-4c94-852d-1dbad68f8860.item.assigned_to.location}}</value>
+    </sys_element_mapping>
+</record_update>

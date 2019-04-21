@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Submit Audit Function">df441a4c0f413300c560cfdce1050eb2</button>
+        <description/>
+        <field_name/>
+        <label>Submit Audit Swipe</label>
+        <location>trailing_swipe</location>
+        <name>Submit Audit Swipe</name>
+        <order>1</order>
+        <parent>2de906840f413300c560cfdce1050eee</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-21 18:45:23</sys_created_on>
+        <sys_id>03f51e8c0f413300c560cfdce1050e49</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submit Audit Swipe</sys_name>
+        <sys_package display_value="Mobile Audit Scanner" source="x_177640_mobile">2dd00a880f013300c560cfdce1050ee5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Audit Scanner">2dd00a880f013300c560cfdce1050ee5</sys_scope>
+        <sys_update_name>sys_sg_button_instance_03f51e8c0f413300c560cfdce1050e49</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-21 18:45:23</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=03f51e8c0f413300c560cfdce1050e49"/>
+</record_update>

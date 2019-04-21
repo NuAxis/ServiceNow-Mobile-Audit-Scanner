@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>true</available_offline>
+        <data_item display_value="My Verification's Due">1dca0a840f413300c560cfdce1050e7d</data_item>
+        <description/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="question-circle">9c3b8e840f413300c560cfdce1050e29</icon>
+        <item_view display_value="My Verifications Due detail item view">e43bc2c40f413300c560cfdce1050e09</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>f03b42c40f413300c560cfdce1050ee5</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-21 17:58:17</sys_created_on>
+        <sys_id>4d3bc2c40f413300c560cfdce1050e0d</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="Mobile Audit Scanner" source="x_177640_mobile">2dd00a880f013300c560cfdce1050ee5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Audit Scanner">2dd00a880f013300c560cfdce1050ee5</sys_scope>
+        <sys_update_name>sys_sg_details_screen_4d3bc2c40f413300c560cfdce1050e0d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-21 18:20:51</sys_updated_on>
+    </sys_sg_details_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=4d3bc2c40f413300c560cfdce1050e0d"/>
+</record_update>

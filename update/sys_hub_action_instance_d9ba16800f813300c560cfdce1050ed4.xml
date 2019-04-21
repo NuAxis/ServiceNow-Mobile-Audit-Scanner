@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Look Up Records">ca07ee090b30030085c083eb37673afc</action_type>
+        <action_type_parent display_value="Look Up Records">d1c56ec50b30030085c083eb37673a50</action_type_parent>
+        <comment/>
+        <compiled_snapshot>ca07ee090b30030085c083eb37673afc</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Populate Audit Logs (Yearly)">09ba16800f813300c560cfdce1050ec7</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-21 19:06:01</sys_created_on>
+        <sys_id>d9ba16800f813300c560cfdce1050ed4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mobile Audit Scanner" source="x_177640_mobile">2dd00a880f013300c560cfdce1050ee5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Audit Scanner">2dd00a880f013300c560cfdce1050ee5</sys_scope>
+        <sys_update_name>sys_hub_action_instance_d9ba16800f813300c560cfdce1050ed4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-21 19:06:01</sys_updated_on>
+        <ui_id>766bf9eb-d61b-4dc5-be88-c7c3cfc763cb</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=d9ba16800f813300c560cfdce1050ed4"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>d9ba16800f813300c560cfdce1050ed4</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-21 19:06:01</sys_created_on>
+        <sys_id>1dba16800f813300c560cfdce1050ed9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-21 19:06:01</sys_updated_on>
+        <value>5000</value>
+        <variable display_value="">8e0722490b30030085c083eb37673a16</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>d9ba16800f813300c560cfdce1050ed4</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-21 19:06:01</sys_created_on>
+        <sys_id>91ba16800f813300c560cfdce1050eda</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-21 19:06:01</sys_updated_on>
+        <value>alm_hardware</value>
+        <variable display_value="">8a07ee090b30030085c083eb37673aff</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>d9ba16800f813300c560cfdce1050ed4</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-21 19:06:01</sys_created_on>
+        <sys_id>ddba16800f813300c560cfdce1050ed9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-21 19:06:01</sys_updated_on>
+        <value>install_status=1^assigned_toISNOTEMPTY</value>
+        <variable display_value="">460722490b30030085c083eb37673a0b</variable>
+    </sys_variable_value>
+</record_update>

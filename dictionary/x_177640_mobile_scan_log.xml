@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Scan Log" max_length="40" name="x_177640_mobile_scan_log" type="collection">
+        <element label="Asset" max_length="32" name="asset" reference="alm_hardware" type="reference"/>
+        <element audit="true" label="Barcode" max_length="40" name="barcode" type="string"/>
+        <element audit="true" label="Comments" max_length="4000" name="comments" type="string"/>
+        <element audit="true" label="GeoLocation" max_length="255" name="geolocation" type="string"/>
+        <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Submitted" max_length="40" name="submitted" type="boolean"/>
+        <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <element label="Verified" max_length="40" name="verified" type="boolean"/>
+        <index name="index">
+            <element name="location"/>
+        </index>
+        <index name="index2">
+            <element name="asset"/>
+        </index>
+        <index name="index3">
+            <element name="user"/>
+        </index>
+    </element>
+</database>

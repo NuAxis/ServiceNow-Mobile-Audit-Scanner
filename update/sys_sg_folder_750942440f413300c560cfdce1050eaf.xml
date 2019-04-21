@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_folder">
+    <sys_sg_folder action="INSERT_OR_UPDATE">
+        <application display_value="Inventory Audit">7d0942440f413300c560cfdce1050eae</application>
+        <name>Self Audit</name>
+        <order>1</order>
+        <sys_class_name>sys_sg_folder</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-21 17:48:47</sys_created_on>
+        <sys_id>750942440f413300c560cfdce1050eaf</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Self Audit</sys_name>
+        <sys_package display_value="Mobile Audit Scanner" source="x_177640_mobile">2dd00a880f013300c560cfdce1050ee5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Audit Scanner">2dd00a880f013300c560cfdce1050ee5</sys_scope>
+        <sys_update_name>sys_sg_folder_750942440f413300c560cfdce1050eaf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-21 17:50:35</sys_updated_on>
+    </sys_sg_folder>
+</record_update>
