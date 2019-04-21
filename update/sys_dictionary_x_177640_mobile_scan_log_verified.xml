@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-04-21 17:16:07</sys_created_on>
-        <sys_id>ad418a880f013300c560cfdce1050e60</sys_id>
+        <sys_id>3a20ea840f813300c560cfdce1050e2c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Verified</sys_name>
         <sys_package display_value="Mobile Audit Scanner" source="x_177640_mobile">2dd00a880f013300c560cfdce1050ee5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Mobile Audit Scanner">2dd00a880f013300c560cfdce1050ee5</sys_scope>
         <sys_update_name>sys_dictionary_x_177640_mobile_scan_log_verified</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-04-21 17:16:07</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-04-21 19:29:55</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

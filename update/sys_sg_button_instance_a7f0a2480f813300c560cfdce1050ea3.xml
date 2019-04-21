@@ -5,24 +5,24 @@
         <description/>
         <field_name/>
         <label>Submit Audit</label>
-        <location>trailing_swipe</location>
-        <name>Submit Audit Swipe</name>
+        <location>top</location>
+        <name>Submit Audit</name>
         <order>1</order>
-        <parent>2de906840f413300c560cfdce1050eee</parent>
-        <parent_table>sys_sg_master_item</parent_table>
+        <parent>b5e982840f413300c560cfdce1050e0c</parent>
+        <parent_table>sys_sg_details_screen</parent_table>
         <sys_class_name>sys_sg_button_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-04-21 18:45:23</sys_created_on>
-        <sys_id>03f51e8c0f413300c560cfdce1050e49</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Submit Audit Swipe</sys_name>
+        <sys_created_on>2019-04-21 19:33:29</sys_created_on>
+        <sys_id>a7f0a2480f813300c560cfdce1050ea3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submit Audit</sys_name>
         <sys_package display_value="Mobile Audit Scanner" source="x_177640_mobile">2dd00a880f013300c560cfdce1050ee5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Mobile Audit Scanner">2dd00a880f013300c560cfdce1050ee5</sys_scope>
-        <sys_update_name>sys_sg_button_instance_03f51e8c0f413300c560cfdce1050e49</sys_update_name>
+        <sys_update_name>sys_sg_button_instance_a7f0a2480f813300c560cfdce1050ea3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-04-21 19:35:01</sys_updated_on>
+        <sys_updated_on>2019-04-21 19:33:29</sys_updated_on>
         <table/>
     </sys_sg_button_instance>
-    <sys_translated_text action="delete_multiple" query="documentkey=03f51e8c0f413300c560cfdce1050e49"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=a7f0a2480f813300c560cfdce1050ea3"/>
 </record_update>
